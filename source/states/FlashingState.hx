@@ -25,13 +25,13 @@ class FlashingState extends MusicBeatState
 
 		#if mobile
 		var guhMobile:String = "Hey, watch out!\n
-		This Mod contains some flashing lights!\n
+		This Engine contains some flashing lights!\n
 		Press A to disable them now or go to Options Menu.\n
 		Press B to ignore this message.\n
 		You've been warned!";
 		#else
 		var guh:String = "Hey, watch out!\n
-		This Mod contains some flashing lights!\n
+		This Engine contains some flashing lights!\n
 		Press ENTER to disable them now or go to Options Menu.\n
 		Press ESCAPE to ignore this message.\n
 		You've been warned!";
